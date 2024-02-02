@@ -1,4 +1,3 @@
-readme.md
 
 # Hey, I'm Emre 💻🖥
 
